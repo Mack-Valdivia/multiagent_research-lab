@@ -1,0 +1,11 @@
+# Multi-Agent Research Lab - Requirements
+# Python 3.10+
+
+crewai==0.28.8
+langchain==0.1.0
+langchain-community==0.0.13
+huggingface_hub==0.20.0
+duckduckgo-search==4.1.0
+chromadb==0.4.22
+pandas==2.1.4
+transformers==4.36.0
